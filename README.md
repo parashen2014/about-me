@@ -1,2 +1,2 @@
 <h1>About</h1>
-<h2>This is a small description about my life</h2>
+<p>This is a small description about my life</p>
