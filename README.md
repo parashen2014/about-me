@@ -6,3 +6,5 @@
 
 <h2>Age:</h2>
 <p>12</p>
+
+<h2>favourite colour:</h2>
