@@ -7,5 +7,8 @@
 <h2>Age:</h2>
 <p>12</p>
 
-<h2>favourite colour:</h2>
-<p>Red🔴
+<h2>Favourite colour:</h2>
+<p>Red🔴<p>
+
+<h2>Favourite food:</h2>
+<p>Pizza<p>
